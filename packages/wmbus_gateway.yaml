@@ -23,8 +23,8 @@ external_components:
       - wmbus_gateway
 
 esphome:
-  name: wmbus-gateway
-  friendly_name: wM-Bus Gateway
+  name: iotlabs-wmbus
+  friendly_name: IoTLabs wM-Bus
   comment: wM-Bus Gateway for ESPHome
   project:
     name: IoTLabs.wM-Bus Gateway
